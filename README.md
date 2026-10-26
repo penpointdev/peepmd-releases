@@ -1,5 +1,7 @@
 # PeepMD
 
+<img src="screenshots/peepmd-icon.png" alt="PeepMD icon: a chick peeping over a Markdown page" width="128" height="128">
+
 Give your Markdown a quick peep.
 
 PeepMD is a Quick Look preview for Markdown files on macOS. Select a `.md` file
